@@ -2,3 +2,26 @@
   margin: 0;
   padding: 0;
 }
+
+body {
+  font-family: 'Karla', sans-serif;
+}
+
+.navbar {
+  height: 5vh;
+  background: linear-gradient(to right, #672280, #A626D3);
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar--image {
+  width: 50px;
+}
+
+.navbar--title {
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+}
