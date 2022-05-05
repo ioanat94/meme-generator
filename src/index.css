@@ -69,3 +69,12 @@ body {
   border-radius: 8px;
   cursor: pointer;
 }
+
+.meme--button:hover {
+  filter: brightness(80%);
+}
+
+.meme--img {
+  padding-top: 36px;
+  max-width: 800px;
+}
