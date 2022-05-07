@@ -1,7 +1,7 @@
 # Meme Generator
 Meme generator in React.  
 
-Live preview: coming soon
+Live preview: https://ioanat94.github.io/meme-generator/
 
 How to run the project:  
 
